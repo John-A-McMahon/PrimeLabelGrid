@@ -1,6 +1,6 @@
 # PrimeLabelGrid
 My attempt to create an algorithm to create a graph grid with coprime labelings using the genetic algorithm.
-example:
+example:<br>
 6 5 3<br>
 7 2 1<br>
 4 9 8<br>
