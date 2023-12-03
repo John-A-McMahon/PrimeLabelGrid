@@ -17,3 +17,6 @@ all adjacent numbers (vertically and horizontally) are coprime<br>
 
 Based on Graph theory!<br>
 First time making the genetic algorithm<br>
+
+
+input: width, height -> output is a grid of numbers 1 to width * height such that all adjacent numbers are coprime
